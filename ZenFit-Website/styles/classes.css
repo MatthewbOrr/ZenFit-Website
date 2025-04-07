@@ -1,0 +1,14 @@
+.table {
+margin: auto;
+padding: 20px;
+}
+.calendar {
+    display: block;
+    margin: 50px auto;
+    width: 90%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+  }
+  .container {
+    margin: 20px 0;
+    width: 450px;
+  }
